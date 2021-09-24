@@ -1,5 +1,5 @@
 import { Daisy } from './daisy.js';
-import { white, yellow } from 'nanocolors';
+import { yellow } from 'nanocolors';
 
 describe('Test test:', ()=> {
 
